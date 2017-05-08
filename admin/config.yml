@@ -3,7 +3,8 @@ backend:
   repo: demersdesigns/netlify # Path to your Github repository
   branch: master # Branch to update
   publish_mode: editorial_workflow
-  media_folder: "images/uploads"
+
+media_folder: "images/uploads"
 
 collections:
   - name: "blog" # Used in routes, e.g. /admin/collections/blog
