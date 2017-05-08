@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Another Test Post
-date: 2017-05-08T14:22:34.167Z
-thumbnail: /images/uploads/356.png
-rating: '4'
+title: "Another Test Post"
+publish: 2017-05-08 09:44:56 -0400
+featured: /images/uploads/356.png
+rating: '5'
 ---
 # **Hello!**
