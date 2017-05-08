@@ -2,8 +2,8 @@ backend:
   name: github
   repo: demersdesigns/netlify # Path to your Github repository
   branch: master # Branch to update
-  publish_mode: editorial_workflow
 
+publish_mode: editorial_workflow
 media_folder: "images/uploads"
 
 collections:
