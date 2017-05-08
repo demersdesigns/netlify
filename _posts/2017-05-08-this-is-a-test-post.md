@@ -6,3 +6,4 @@ thumbnail: /images/uploads/550-spyder.png
 rating: '2'
 ---
 This is a nice car.
+
